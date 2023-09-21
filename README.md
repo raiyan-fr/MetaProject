@@ -30,7 +30,7 @@ The "burn" function is utilized to effectuate the removal or destruction of toke
 
 To run this program you can use [remix](https://remix.ethereum.org/). It is an ETHEREUM_IDE software that allows us to compile and deploy solidity smart contract.
 
-once you're on the [remix](https://remix.ethereum.org/) website, just create a new .sol file and copy/paste the code available in my repository [MetaProject](https://github.com/raiyan-fr/MetaProject/blob/main/MetaToken.sol)
+Once you're on the [remix](https://remix.ethereum.org/) website, just create a new .sol file and copy/paste the code available in my repository [MetaProject](https://github.com/raiyan-fr/MetaProject/blob/main/MetaToken.sol)
 
 Once the code has been reproduced in the file, you can proceed with compilation either by utilizing the "Ctrl+S" keyboard shortcut or by accessing the "Solidity Compiler" tab located in the left sidebar. It is important to verify that the "Compiler" option is appropriately configured to "0.8.18".
  
