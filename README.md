@@ -15,7 +15,7 @@ The code starts with assigning public variables that store the details about the
 
 # Mapping variables
 
-mapping identifier is uesd to create key-value data structures.The mapping is used here to locate "Totalsupply" based on the address provided by the user.
+mapping identifier is used to create key-value data structures.The mapping is used here to locate "Totalsupply" based on the address provided by the user.
 
 # mint function
 
